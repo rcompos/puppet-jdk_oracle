@@ -2,3 +2,4 @@ spec/fixtures
 pkg/
 .bundle
 .vendor
+.DS_Store
